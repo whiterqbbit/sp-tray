@@ -76,3 +76,21 @@ msgstr "À gauche"
 
 msgid "Right of label"
 msgstr "À droite"
+
+msgid "Hide widget when playback is stopped"
+msgstr "Masquer le widget quand Spotify est en pause"
+
+msgid "Stopped"
+msgstr "En pause"
+
+msgid "Loop and shuffle indicators"
+msgstr "Icônes Boucle et Aléatoire"
+
+msgid "Shuffle"
+msgstr "Aléatoire"
+
+msgid "Loop track"
+msgstr "Boucle Piste"
+
+msgid "Loop playlist"
+msgstr "Boucle Playlist"
